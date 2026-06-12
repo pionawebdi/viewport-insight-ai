@@ -266,13 +266,6 @@ function Problems() {
           ))}
         </div>
       </div>
-      <div className="mx-auto mt-8 max-w-3xl rounded-2xl bg-surface p-6 text-center">
-        <p className="text-sm font-bold text-foreground">전환 문제는 한 화면의 디자인 문제가 아닙니다.</p>
-        <p className="mt-2 text-[15px] leading-relaxed text-muted-foreground">
-          고객이 방문해서 이해하고, 신뢰하고, 문의하기까지의 흐름 어디에서 막히는지 먼저 확인해야
-          합니다.
-        </p>
-      </div>
     </Section>
   );
 }
