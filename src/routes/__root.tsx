@@ -77,18 +77,18 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Lovable App" },
+      { title: "Viewport" },
       { name: "description", content: "AI-powered UX/UI analysis for websites, providing actionable reports to boost conversions." },
       { name: "author", content: "Lovable" },
-      { property: "og:title", content: "Lovable App" },
+      { property: "og:title", content: "Viewport" },
       { property: "og:description", content: "AI-powered UX/UI analysis for websites, providing actionable reports to boost conversions." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
       { name: "twitter:site", content: "@Lovable" },
-      { name: "twitter:title", content: "Lovable App" },
+      { name: "twitter:title", content: "Viewport" },
       { name: "twitter:description", content: "AI-powered UX/UI analysis for websites, providing actionable reports to boost conversions." },
-      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/7aa18de6-5a93-4620-8ee2-a24f36afda21/id-preview-a560fc7f--fb3333a4-cf65-4304-b704-45024656fa26.lovable.app-1781227001678.png" },
-      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/7aa18de6-5a93-4620-8ee2-a24f36afda21/id-preview-a560fc7f--fb3333a4-cf65-4304-b704-45024656fa26.lovable.app-1781227001678.png" },
+      { property: "og:image", content: "https://storage.googleapis.com/gpt-engineer-file-uploads/attachments/og-images/95d00e00-c07b-4485-bfb0-a158f2330d09" },
+      { name: "twitter:image", content: "https://storage.googleapis.com/gpt-engineer-file-uploads/attachments/og-images/95d00e00-c07b-4485-bfb0-a158f2330d09" },
     ],
     links: [
       {
